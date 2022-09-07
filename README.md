@@ -2,8 +2,11 @@
 ## Favorite Museum: National Air and Space Museum
 
 ## Several must see exhibits include: The **Spirit of St. Louis**, **John Glenn's Mercury spacecraft**, The **Viking Lander**, **Pioneer 10**
+
 ---
-## Ronald Reagan Washington National Airport to Smithsonian National Air and Space Museum
+
+### Ronald Reagan Washington National Airport to Smithsonian National Air and Space Museum
+
 1. Get on I-395 N from George Washington Pkwy
     1. Head southeast
     2. Turn right toward Ronald Reagan Washington National Airport Access Rd/Smith Blvd
@@ -18,4 +21,14 @@
     4. Turn right onto Independence Ave SW
 3. Turn right onto Independence Ave SW
     1. The destination is on your left
-    
+
+### Must-See Locations near the Museum
+
+- Washington Monument
+- Arlington National Cemetery
+- National Muesum of American History
+- Smithsonian Castle
+- Ulysses S. Grant Memorial
+- United States Botanic Garden
+- Peace Monument
+- Try the food trucks!!
