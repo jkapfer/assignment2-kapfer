@@ -45,4 +45,11 @@ Below is a table of several cities that I think everybody should visit along wit
 |Nashville|Party Fowl|~1 hour|
 |Colorado Springs|Pike's Peak|~3-4 hours|
 ---
+### Quotes I like:
+>“Battle not with monsters, lest ye become a monster, and if you gaze into the abyss, the abyss gazes also into you.” -*Nietzsche*
+
+>“Fix the cause, not the symptom.” -*Steve Maguire*
+
+>“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” -*Antoine de Saint-Exupery*
+---
 [Check out my AboutMe!](AboutMe.md)
