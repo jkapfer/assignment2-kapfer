@@ -34,4 +34,15 @@
 - Try the food trucks!!
 
 ---
+### Four Cities You Must Vist!
+
+Below is a table of several cities that I think everybody should visit along with one interesting location and the approximate time you will spend at said location. I will admit, most locations are restaurants.
+
+|City|Important Location|Time to spend|
+|-----|-----|-----|
+|Chicago|Giordano's|~1 hour
+|Kansas City|Chief's Stadium|~4 hours|
+|Nashville|Party Fowl|~1 hour|
+|Colorado Springs|Pike's Peak|~3-4 hours|
+---
 [Check out my AboutMe!](AboutMe.md)
