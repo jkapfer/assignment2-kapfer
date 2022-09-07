@@ -52,4 +52,53 @@ Below is a table of several cities that I think everybody should visit along wit
 
 >“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” -*Antoine de Saint-Exupery*
 ---
+### Code Fencing
+
+```CSS
+/*
+  This is a 
+  comment in CSS
+*/
+body {
+  font-family: system-ui;
+  font-size: 62.5%  /* 1em = 10px */
+  line-height: 1.4;
+}
+```
+
+>I have a table with multiple heads inside th tags where I want to be able to change another element #box1 to be shown when hovering over the #heading element. This works when replacing the th tag with div or section tags. Why wont it work with th tags?
+>```
+>#heading {
+>  text-decoration: none;
+>}
+>
+>#box1 {
+>  display: block;
+>  background-color: red;
+>  width: 100px;
+>  height: 100px;
+>}
+>
+>#heading:hover + #box1 {
+>  display: block;
+>  background-color: blue;
+>  width: 50px;
+>  height: 50px;
+>}
+>```
+>```
+><table id="main-players-container">
+>
+>  <tr id="headings">
+>    <th id="heading">Name</th>
+>    <div id="box1">
+>      <p>box to change css</p>
+>    </div>
+>    <th>Price</th>
+>  </tr>
+></table>
+>```
+<https://stackoverflow.com/questions/73641359/th-element-wont-activate-on-hover>
+
+---
 [Check out my AboutMe!](AboutMe.md)
